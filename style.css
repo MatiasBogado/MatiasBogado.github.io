@@ -31,6 +31,10 @@ body{
     margin: 10px;
 
 }
+.text-3{
+    font-size: 40px;
+    margin: 5px 0;
+}
 .user-box p{
     font-size: 24px;
     color: #fff;
